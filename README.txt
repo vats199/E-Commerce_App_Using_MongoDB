@@ -22,4 +22,4 @@ SetUp instructions :- (First of all delete node_modules,package.json and package
 
                       - views/shop/checkout.js(26) (Publishable key you got from the stripe website)
 
-            -> Encryption_Key - app.js (Any sentence you want as a key)
+            -> Encryption_Key - app.js (Any sentence you want as a key).....
