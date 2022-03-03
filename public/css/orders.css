@@ -1,0 +1,37 @@
+.orders {
+    list-style: decimal;
+    padding: 0;
+    margin-left: 1rem;
+    width: 50%;
+
+  }
+  
+  .orders__item h1 {
+      margin: 0;
+      font-size: 1rem;
+  }
+  
+  .orders__item {
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.26);
+    padding: 1rem;
+    margin-bottom: 2rem;
+    background-color: rgb(243, 195, 156);
+  }
+  
+  .orders__products {
+      list-style: lower-roman;
+      margin-left: 1rem;
+      padding: 0;
+  }
+  
+  .orders__products-item {
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+      border: 1px solid #236b72;
+      color: #236b72;
+      background-color: rgb(252, 217, 189);
+  }
+
+  .invoice{
+      float: right;
+  }
