@@ -1,6 +1,6 @@
 # E-Commerce_App_Using_MYSQL
 
-SetUp instructions :- (First of all delete node_moduels,package.json and package-lock.json files from this folder)
+SetUp instructions :- (First of all delete node_modules,package.json and package-lock.json files from this folder)
 
 -> First of all install Node and npm on your system.
 -> In terminal or cmd,create your own node_package using command 'npm init'. ('Visual Studio Code' Application is recommended to run your code)
