@@ -1,0 +1,26 @@
+To install the packages run " npm install --save <name of package> " command (except nodemon) in your terminal.
+
+Use " npm install --save-dev nodemon" command to install nodemon package.
+
+Here are some Packages you have to install in your Device:
+
+ 
+    bcryptjs
+    body-parser
+    connect-flash
+    connect-mongodb-session
+    csurf
+    ejs
+    express
+    express-handlebars
+    express-session
+    express-validator
+    mongodb
+    mongoose
+    multer
+    nodemailer
+    nodemailer-sendgrid-transport
+    nodemon
+    path
+    pdfkit
+    stripe
